@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: proposal.aux
+The style file: nsfc.bst.bst
+Database file #1: ref.bib
+Warning--I didn't find a database entry for "21SC_WebSegE"
+Warning--I didn't find a database entry for "ChengZMHH10"
+Warning--I didn't find a database entry for "cheng2014imagespirit"
+Warning--I didn't find a database entry for "sketch2PhotoMost"
+You've used 8 entries,
+            2072 wiz_defined-function locations,
+            925 strings with 9910 characters,
+and the built_in function-call counts, 2093 in all, are:
+= -- 159
+> -- 144
+< -- 2
++ -- 51
+- -- 43
+* -- 146
+:= -- 346
+add.period$ -- 25
+call.type$ -- 8
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 84
+empty$ -- 187
+format.name$ -- 43
+if$ -- 462
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 9
+newline$ -- 43
+num.names$ -- 10
+pop$ -- 38
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 40
+stack$ -- 0
+substring$ -- 91
+swap$ -- 24
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 15
+width$ -- 9
+write$ -- 90
+(There were 4 warnings)

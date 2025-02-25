@@ -17,7 +17,7 @@
 %
 % ---------------------------------------------------------------
 %
-% no guarantee is given that the format corresponds perfectly to 
+% no guarantee is given that the format corresponds perfectly to
 % IEEE 8.5" x 11" Proceedings, but most features should be ok.
 %
 % ---------------------------------------------------------------
@@ -1049,31 +1049,32 @@ FUNCTION {editor.organization.sort}
 }
 
 FUNCTION {presort}
-{ type$ "book" =
-  type$ "inbook" =
-  or
-    'author.editor.sort
-    { type$ "proceedings" =
- 'editor.organization.sort
- { type$ "manual" =
-     'author.organization.sort
-     'author.sort
-   if$
- }
-      if$
-    }
-  if$
-  "    "
-  *
-  year field.or.null sortify
-  *
-  "    "
-  *
-  title field.or.null
-  sort.format.title
-  *
-  #1 entry.max$ substring$
-  'sort.key$ :=
+{
+  % type$ "book" =
+  % type$ "inbook" =
+  % or
+  %   'author.editor.sort
+  %   { type$ "proceedings" =
+ % 'editor.organization.sort
+ % { type$ "manual" =
+  %    'author.organization.sort
+  %    'author.sort
+  %  if$
+ % }
+  %     if$
+  %   }
+  % if$
+  % "    "
+  % *
+  % year field.or.null sortify
+  % *
+  % "    "
+  % *
+  % title field.or.null
+  % sort.format.title
+  % *
+  % #1 entry.max$ substring$
+  % 'sort.key$ :=
 }
 
 ITERATE {presort}
@@ -1130,6 +1131,3 @@ EXECUTE {end.bib}
 
 % end of file ieee.bst
 % ---------------------------------------------------------------
-
-
-

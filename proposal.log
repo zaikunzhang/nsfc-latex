@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.21)  25 FEB 2025 12:38
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.21)  25 FEB 2025 22:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -566,35 +566,11 @@ LaTeX Info: Redefining \GenericWarning on input line 433.
 \sl@TempBOE=\toks32
 \sl@BankOfErrors=\toks33
 LaTeX Info: Redefining \GenericError on input line 601.
-)) (./fontsetup.tex
-
-Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault'
-(xeCJK)                (FandolSong-Regular(0)).
-
-LaTeX Font Info:    Trying to load font information for TU+ptm on input line 4.
-
-LaTeX Font Info:    No file TUptm.fd. on input line 4.
-
-Package xeCJK Warning: Redefining CJKfamily `\CJKsfdefault'
-(xeCJK)                (FandolHei-Regular).
-
-
-Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault'
-(xeCJK)                (FandolFang-Regular).
-
-
-Package xeCJK Warning: Redefining CJKfamily `zhsong' (FandolSong-Regular).
-
-
-Package xeCJK Warning: Redefining CJKfamily `zhhei' (FandolHei-Regular).
-
-
-Package xeCJK Warning: Redefining CJKfamily `zhkai' (FandolKai-Regular).
-
-
-Package xeCJK Warning: Redefining CJKfamily `zhfs' (FandolFang-Regular).
-
-) (./proposal.aux)
+))
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 25
+.
+LaTeX Font Info:    No file TUptm.fd. on input line 25.
+ (./proposal.aux)
 \openout1 = `proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -705,12 +681,12 @@ Package hyperref Info: Link coloring ON on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
 
 (/home/zaikunzhang/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
 
 
 (/home/zaikunzhang/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -725,60 +701,62 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [3]
 
-LaTeX Warning: Citation `21SC_WebSegE' on page 4 undefined on input line 248.
+LaTeX Warning: Citation `21SC_WebSegE' on page 4 undefined on input line 266.
 
 
-LaTeX Warning: Citation `ChengZMHH10' on page 4 undefined on input line 248.
+LaTeX Warning: Citation `ChengZMHH10' on page 4 undefined on input line 266.
 
-No file proposal.bbl.
+(./proposal.bbl
+
+[4])
 File: figures/framework.pdf Graphic file (type pdf)
 <use figures/framework.pdf>
 File: figures/pipeline.pdf Graphic file (type pdf)
 <use figures/pipeline.pdf>
 
 
-[4]
-
 [5]
+
+[6]
 File: figures/work.jpg Graphic file (type bmp)
 <figures/work.jpg>
 
 
-LaTeX Warning: Citation `ChengZMHH10' on page 6 undefined on input line 369.
+LaTeX Warning: Citation `ChengZMHH10' on page 7 undefined on input line 405.
 
 
-LaTeX Warning: Citation `cheng2014imagespirit' on page 6 undefined on input lin
-e 371.
+LaTeX Warning: Citation `cheng2014imagespirit' on page 7 undefined on input lin
+e 407.
 
 
-LaTeX Warning: Citation `cheng2014imagespirit' on page 6 undefined on input lin
-e 373.
+LaTeX Warning: Citation `cheng2014imagespirit' on page 7 undefined on input lin
+e 409.
 
 
-LaTeX Warning: Citation `sketch2PhotoMost' on page 6 undefined on input line 38
-0.
+LaTeX Warning: Citation `sketch2PhotoMost' on page 7 undefined on input line 41
+6.
 
 
 
-[6]
+[7]
 File: figures/sal.jpg Graphic file (type bmp)
 <figures/sal.jpg>
 File: figures/Objectness.jpg Graphic file (type bmp)
 <figures/Objectness.jpg>
 
 
-[7]
+[8]
 File: figures/awards.jpg Graphic file (type bmp)
 <figures/awards.jpg>
 
-
-[8]
 
 [9]
 
 [10]
 
-[11] (./proposal.aux)
+[11]
+
+[12] (./proposal.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
@@ -789,12 +767,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 16716 strings out of 473891
- 366048 string characters out of 5725224
- 791210 words of memory out of 5000000
- 39534 multiletter control sequences out of 15000+600000
- 568291 words of font info for 94 fonts, out of 8000000 for 9000
+ 16703 strings out of 473891
+ 370609 string characters out of 5725224
+ 797205 words of memory out of 5000000
+ 39531 multiletter control sequences out of 15000+600000
+ 568243 words of font info for 88 fonts, out of 8000000 for 9000
  1318 hyphenation exceptions out of 8191
- 108i,6n,126p,369b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,6n,126p,348b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on proposal.pdf (11 pages).
+Output written on proposal.xdv (12 pages, 167788 bytes).

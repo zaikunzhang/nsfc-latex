@@ -1,0 +1,6 @@
+PWD /home/zaikunzhang/Bureau/nsfc_general_2025/proposal/fonts
+INPUT /home/zaikunzhang/local/texlive/2024/texmf.cnf
+INPUT /home/zaikunzhang/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /home/zaikunzhang/local/texlive/2024/texmf-var/web2c/pdftex/latex.fmt
+INPUT fontsetup.tex
+OUTPUT fontsetup.log

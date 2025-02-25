@@ -1,0 +1,52 @@
+**************** checkbib.log before trimming ****************
+Result of checking /home/zaikunzhang/Bureau/bibliographie/ref.bib in BibTeX mode
+===> Non-ASCII characters:
+
+--------------------------------------------------
+===> Capital letters that need to be protected by curly braces:
+
+--------------------------------------------------
+===> Message from python3 /home/zaikunzhang/local/textools/python/bibtex_check.py -o bibtex_check.html -b:
+
+--------------------------------------------------
+===> Message from biber:
+
+***************** checkbib.log after trimming ****************
+Result of checking /home/zaikunzhang/Bureau/bibliographie/ref.bib in BibTeX mode
+===> Non-ASCII characters:
+
+--------------------------------------------------
+===> Capital letters that need to be protected by curly braces:
+
+--------------------------------------------------
+===> Message from python3 /home/zaikunzhang/local/textools/python/bibtex_check.py -o bibtex_check.html -b:
+
+--------------------------------------------------
+===> Message from biber:
+
+****** Difference between the trimmed bib and the original /home/zaikunzhang/Bureau/bibliographie/ref.bib ******
+3536,3546d3535
+< @article{Ge_etal_2024,
+<     author     = {Ge, D. and Liu, J. and Liu, T. and Tan, J. and Ye, Y.},
+<     _number    = {4},
+<     _publisher = {ACM},
+<     journal    = toms,
+<     pages      = {1--24},
+<     title      = {Algorithm 1053: {SOLNP}+: A Derivative-Free Solver for Constrained Nonlinear Optimization},
+<     volume     = {50},
+<     year       = {2024},
+< }
+< 
+8895a8885,8894
+> @article{Ge_etal_2024,
+>   title={Algorithm 1053: {SOLNP}+: A Derivative-Free Solver for Constrained Nonlinear Optimization},
+>   author={Ge, D. and Liu, J. and Liu, T. and Tan, J. and Ye, Y.},
+>   journal=toms,
+>   volume={50},
+>   _number={4},
+>   pages={1--24},
+>   year={2024},
+>   _publisher={ACM},
+> }
+
+A copy of the original bib file is saved at ./backup//%home%zaikunzhang%Bureau%bibliographie%ref.bib-2025.02.25-22.43.48

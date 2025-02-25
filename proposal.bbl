@@ -1,0 +1,54 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{Conn_Scheinberg_Vicente_2009b}
+A.~R. Conn, K. Scheinberg, L.~N. Vicente.
+\newblock {\em Introduction to Derivative-Free Optimization}, volume~8 of {\em
+  MOS-SIAM Ser. Optim.}
+\newblock SIAM, Philadelphia, 2009.
+
+\bibitem{Zhang_2012_cn}
+张在坤.
+\newblock \textit{无导数优化方法的研究}.
+\newblock 博士论文, 中国科学院, 北京, 2012.
+
+\bibitem{Zhang_2020}
+张在坤.
+\newblock 无导数优化.
+\newblock 袁亚湘主编, \textit{中国学科发展战略：数学优化},
+  84--92 页. 科学出版社, 北京, 2020.
+
+\bibitem{Audet_Hare_2017}
+C. Audet W. Hare.
+\newblock {\em Derivative-Free and Blackbox Optimization}.
+\newblock Springer, Cham, 2017.
+
+\bibitem{Wild_Sarich_Schunck_2015}
+S.~M. Wild, J. Sarich, N. Schunck.
+\newblock Derivative-free optimization for parameter estimation in
+  computational nuclear physics.
+\newblock {\em J. Phys. G}, 42:034031, 2015.
+
+\bibitem{Gu_etal_2024}
+T. Gu, W. Li, A. Zhao, Z. Bi, X. Li, F. Yang, C. Yan, W. Hu, D. Zhou, T. Cui,
+  X. Liu, Z. Zhang, X. Zeng.
+\newblock {BBGP-sDFO}: Batch {Bayesian} and {Gaussian} process enhanced
+  subspace derivative free optimization for high-dimensional analog circuit
+  synthesis.
+\newblock {\em IEEE Trans. Comput.-Aided Des. Integr. Circuits Syst.},
+  43:417--430, 2024.
+
+\bibitem{Zhang_etal_2024}
+Y. Zhang, P. Li, J. Hong, J. Li, Y. Zhang, W. Zheng, P.-Y. Chen, J.~D. Lee, W.
+  Yin, M. Hong, Z. Wang, S. Liu, T. Chen.
+\newblock Revisiting zeroth-order optimization for memory-efficient {LLM}
+  fine-tuning: A benchmark.
+\newblock In R. Salakhutdinov, Z. Kolter, K. Heller, A. Weller, N. Oliver, J.
+  Scarlett, editors, {\em ICML'24: Proceedings of the 41st International
+  Conference on Machine Learning}, pages 59173--59190. JMLR.org, 2024.
+
+\bibitem{Yuan_2008_cn}
+袁亚湘.
+\newblock {\em 非线性最优化计算方法}.
+\newblock 科学出版社, 北京, 2008.
+
+\end{thebibliography}
