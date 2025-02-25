@@ -51,4 +51,10 @@ Y. Zhang, P. Li, J. Hong, J. Li, Y. Zhang, W. Zheng, P.-Y. Chen, J.~D. Lee, W.
 \newblock {\em 非线性最优化计算方法}.
 \newblock 科学出版社, 北京, 2008.
 
+\bibitem{Ge_etal_2024}
+D. Ge, J. Liu, T. Liu, J. Tan, Y. Ye.
+\newblock Algorithm 1053: {SOLNP}+: A derivative-free solver for constrained
+  nonlinear optimization.
+\newblock {\em ACM Trans. Math. Software}, 50:1--24, 2024.
+
 \end{thebibliography}

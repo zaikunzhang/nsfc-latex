@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex proposal"] 1740493252.64572 "proposal.aux" "proposal.bbl" "proposal" 1740493254.32305 0
+["bibtex proposal"] 1740498748.50181 "proposal.aux" "proposal.bbl" "proposal" 1740498749.65207 0
   "./nsfc.bst" 1740472123.08156 19949 044e37e3f37c39e90888e8e5677c43e8 ""
-  "./ref.bib" 1740475925.47065 273052 f64d4a5dbbbe415a6c43abbd1e185ad9 ""
-  "proposal.aux" 1740493253.65561 5260 2f485e3a1ee4e5a57a5c79036b572ab4 "xelatex"
+  "./ref.bib" 1740494939.92199 273406 09eda798662d45af0c2e4c91479ff00e ""
+  "proposal.aux" 1740498749.23962 5149 36ea7a03de02c7062c20a1b3d09cd62c "xelatex"
   (generated)
   "proposal.bbl"
   "proposal.blg"
   (rewritten before read)
-["xdvipdfmx"] 1740493253.98307 "proposal.xdv" "proposal.pdf" "proposal" 1740493254.32463 0
-  "proposal.xdv" 1740493253.65561 167788 4f49728d7bf16dd9795ce5ce3d94fd42 "xelatex"
+["xdvipdfmx"] 1740498749.4275 "proposal.xdv" "proposal.pdf" "proposal" 1740498749.65488 0
+  "proposal.xdv" 1740498749.24062 169452 e84463af3f9020c8d81ba92278a07929 "xelatex"
   (generated)
   "proposal.pdf"
   (rewritten before read)
-["xelatex"] 1740493252.79801 "proposal.tex" "proposal.xdv" "proposal" 1740493254.32316 0
+["xelatex"] 1740498748.59076 "proposal.tex" "proposal.xdv" "proposal" 1740498749.6523 0
   "/home/zaikunzhang/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/home/zaikunzhang/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/home/zaikunzhang/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -124,9 +124,9 @@
   "figures/sal.jpg" 1740452914.61192 50324 ca20e63c8f26a495f489a92e994a2193 ""
   "figures/work.jpg" 1740452914.61292 94487 b6d18543ca4df7764e04d71cce97cdfc ""
   "nsfc.sty" 1740459902.91279 2636 6e4df29515b25c04f4d98724adb36f64 ""
-  "proposal.aux" 1740493253.65561 5260 2f485e3a1ee4e5a57a5c79036b572ab4 "xelatex"
-  "proposal.bbl" 1740493252.7906 1941 12d72d1e1371d023be79e2a04b292c65 "bibtex proposal"
-  "proposal.tex" 1740493247.48755 31941 f7587798a11c8642605ac36d3063d270 ""
+  "proposal.aux" 1740498749.23962 5149 36ea7a03de02c7062c20a1b3d09cd62c "xelatex"
+  "proposal.bbl" 1740498748.58662 2165 3e31b34575d6dbdff9d483c961418eb9 "bibtex proposal"
+  "proposal.tex" 1740498745.93464 31826 a0c58c05aea149a902c26dfefac2fbf2 ""
   (generated)
   "proposal.aux"
   "proposal.log"
