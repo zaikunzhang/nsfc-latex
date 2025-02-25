@@ -28,13 +28,13 @@
 \newcommand{\alert}[1]{\nsfClr{\emph{#1}}}
 \newcommand{\ContentDes}[1]{
    \setcounter{section}{0}
-   {\large \bf {\alert{#1}} }% %{\vspace*{12pt} \NsfcNote{#2} }%
+   {\!\!\large \pmb {\alert{#1}} }% %{\vspace*{12pt} \NsfcNote{#2} }%
 }
 \setlength{\parskip}{0.5\baselineskip}
 
 
 \def\@maketitle{ %\newpage \null \vskip .01in
-   \begin{center} {\LARGE\bf\@title\par} \end{center}
+    \begin{center} {\Large\pmb{\emph{\@title}}\par} \end{center}
 }
 
 
@@ -47,7 +47,7 @@
 \newcommand{\NsfcSection}[3]{{\large
   \setcounter{section}{#1}
   \setcounter{subsection}{0}
-  \indent \nsfClr{#1. }{\bfseries{\alert{#2}}}{\alert{#3}}%
+  \indent \nsfClr{#1. }{\pmb{\alert{#2}}}{\!\!\alert{#3}}%
 }}
 
 

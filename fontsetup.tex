@@ -1,0 +1,27 @@
+% 定义字体。*.ttf 为字体文件名。字体文件由使用者提供并置于当前目录下。
+%\setCJKmainfont[BoldFont={[simhei.ttf]},ItalicFont={[simkai.ttf]}]{[simsun.ttf]}
+%\setCJKmainfont[BoldFont={[simhei.ttf]},ItalicFont={[simkai.ttf]}]{[SimSun]}
+\setCJKmainfont[BoldFont={[simhei]},ItalicFont={[simkai]}]{[SimSun]}
+\setCJKsansfont{[simhei]}
+\setCJKmonofont{[simfang]}
+
+\setCJKfamilyfont{zhsong}{[SimSun]}
+%\setCJKfamilyfont{zhhei}{[noto-l.otf]}
+%\setCJKfamilyfont{zhhei}{[Noto Sans CJK SC]}
+\setCJKfamilyfont{zhhei}{[simihei]}
+\setCJKfamilyfont{zhkai}{[simkai]}
+\setCJKfamilyfont{zhfs}{[simfang]}
+\setCJKfamilyfont{zhli}{[simli.ttf]}
+\setCJKfamilyfont{zhyou}{[simyou.ttf]}
+\setCJKfamilyfont{zhxingkai}{[stxingkai.ttf]}
+\setCJKfamilyfont{zhxinwei}{[stxinwei.ttf]}
+
+% 定义字体调用命令。
+\renewcommand*{\songti}{\CJKfamily{zhsong}} % 宋体
+\renewcommand*{\heiti}{\CJKfamily{zhhei}}   % 黑体
+\newcommand*{\kaiti}{\CJKfamily{zhkai}}  % 楷书
+\renewcommand*{\fangsong}{\CJKfamily{zhfs}} % 仿宋
+\newcommand*{\liti}{\CJKfamily{zhli}}    % 隶书
+\newcommand*{\youyuan}{\CJKfamily{zhyou}} % 幼圆
+\newcommand*{\xinwei}{\CJKfamily{zhxinwei}}    % 新魏
+\newcommand*{\xingkai}{\CJKfamily{zhxingkai}}    % 行楷
